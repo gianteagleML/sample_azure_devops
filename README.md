@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/gianteagle/EA%20RnD/_apis/build/status%2FgianteagleML.sample_azure_devops?branchName=main)](https://dev.azure.com/gianteagle/EA%20RnD/_build/latest?definitionId=1518&branchName=main)
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
